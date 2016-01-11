@@ -1,0 +1,3 @@
+- Pertanyaan bisa di tambah atau di delete
+- variabel pertanyaan tidak di pakai, tapi  menggunakan id pertanyaan
+- Data Pribadi id pertanyaan, id jawaban, dan id user
